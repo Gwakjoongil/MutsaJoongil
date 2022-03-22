@@ -23,3 +23,6 @@ for i in range(5):
     for j in range(5):
         print(a[i][j], end = '\t')
     print("\n")
+
+print("끝!")
+print("끝!")
