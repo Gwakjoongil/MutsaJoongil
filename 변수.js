@@ -1,0 +1,12 @@
+var nam="문자열";
+var int= 1248;
+var double=12.48;
+var bool=true;
+var obj={me:"준" ,you:"joon"};
+console.log(typeof int);
+console.log(typeof double);
+console.log(typeof nam);
+console.log(typeof bool);
+console.log(typeof obj);
+console.log(typeof 12);
+console.log(typeof true);

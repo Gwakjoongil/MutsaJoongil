@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'KOTRAHOPE';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2110@1.0/KOTRAHOPE.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+h1{
+    margin-left: 200px;
+    font-family: 'KOTRAHOPE';
+}
+img{
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+}
